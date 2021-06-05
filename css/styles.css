@@ -1,5 +1,5 @@
-section{
-    background:linear-gradient(45deg,black,rgb(228, 238, 238));
+section {
+    background: linear-gradient(45deg, black, rgb(228, 238, 238));
     color: white;
     font-family: "Comic Sans MS", sans-serif;
     padding: 15px;
@@ -7,8 +7,9 @@ section{
     border-radius: 15px;
     box-shadow: 0 5px 10px black;
 }
-section article{
-    background:linear-gradient(45deg,orangered,rgb(207, 171, 171));
+
+section article {
+    background: linear-gradient(45deg, orangered, rgb(207, 171, 171));
     color: white;
     font-family: "Comic Sans MS", sans-serif;
     padding: 15px;
@@ -16,13 +17,16 @@ section article{
     border-radius: 15px;
     box-shadow: 0 5px 10px black;
 }
-h1{
-    text-align:center;
+
+h1 {
+    text-align: center;
 }
-img{
+
+img {
     border-radius: 10px;
     box-shadow: 0 5px 10px black;
 }
-article{
-    display:inline-block;
+
+article {
+    display: inline-block;
 }
